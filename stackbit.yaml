@@ -445,4 +445,4 @@ stackbit_banner:
   show_banner: true
   name: Vanilla
   create_url: 'https://app.stackbit.com/create?theme=vanilla'
-  github_url: 'https://github.com/stackbit-themes/vanilla-unibit'
+  github_url: 'https://github.com/stackbit/stackbit-theme-vanilla'
